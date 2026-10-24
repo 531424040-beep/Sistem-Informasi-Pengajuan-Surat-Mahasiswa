@@ -8,10 +8,10 @@ Aplikasi web berbasis **Laravel + MySQL** untuk mengajukan surat secara online: 
 ## Tampilan Aplikasi
 
 ### Halaman Registrasi
-![Registrasi](docs/screenshots/registrasi.png)
+![Registrasi](docs/screenshots/registrasi.jpeg)
 
 ### Halaman Login
-![Login](docs/screenshots/login.png)
+![Login](docs/screenshots/login.jpeg)
 
 ---
 
